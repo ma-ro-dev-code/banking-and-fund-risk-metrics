@@ -10,18 +10,23 @@ All data is **100% synthetic**, generated in Python using controlled statistical
 
 ---
 
-# 📂 Repository Contents
+## 📂 Repository Structure
 
-notebooks/
-│── 01_credit_risk_metrics.ipynb
-│── 02_portfolio_concentration.ipynb (coming soon)
-│── 03_ifrs9_and_rating_migration.ipynb (coming soon)
-data/
-│── loan_portfolio.xlsx
-src/
-│── generate_loan_portfolio.py
-README.md
+```
+📁 notebooks/
+│   ├── 01_credit_risk_metrics.ipynb
+│   ├── 02_portfolio_concentration.ipynb        (coming soon)
+│   └── 03_ifrs9_and_rating_migration.ipynb     (coming soon)
 
+📁 data/
+│   └── loan_portfolio.xlsx
+
+📁 src/
+│   └── generate_loan_portfolio.py
+
+📄 README.md
+📄 LICENSE
+```
 ---
 
 # 🎯 Project Overview
@@ -273,8 +278,6 @@ No real customer or bank data is used.
 ---
 
 # Author
-
-**Maria Root**  
-Credit Risk & Data Analytics  
 GitHub: `ma-ro-dev-code`
+
 
