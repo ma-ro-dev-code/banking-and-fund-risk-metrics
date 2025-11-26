@@ -195,14 +195,13 @@ A simple band indicating that provisions are modeled as ±20% around EL.
 This allows realistic **Coverage Ratio** analysis.
 
 ---
-
 ## 10. Coverage Ratio
 
 Indicates whether a loan or segment has sufficient reserves:
 
 **Coverage Ratio = Provision / Expected Loss**
 
-- >1.0 → over-reserved  
+- \>1.0 → over-reserved  
 - <1.0 → under-reserved  
 - ≈1.0 → adequate  
 
@@ -279,6 +278,7 @@ No real customer or bank data is used.
 
 # Author
 GitHub: `ma-ro-dev-code`
+
 
 
 
