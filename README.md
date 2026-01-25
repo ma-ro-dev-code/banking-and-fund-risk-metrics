@@ -16,7 +16,7 @@ All data is **100% synthetic**, generated in Python using controlled statistical
 📁 notebooks/
 │   ├── 01_credit_risk_metrics.ipynb
 │   ├── 02_portfolio_concentration.ipynb
-│   └── 03_ifrs9_and_rating_migration.ipynb     (coming soon)
+│   └── 03_ifrs9_and_rating_migration.ipynb
 
 📁 data/
 │   └── loan_portfolio.xlsx
@@ -278,6 +278,7 @@ No real customer or bank data is used.
 
 # Author
 GitHub: `ma-ro-dev-code`
+
 
 
 
